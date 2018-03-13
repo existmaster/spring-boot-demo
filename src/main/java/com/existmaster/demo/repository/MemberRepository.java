@@ -1,5 +1,6 @@
-package com.existmaster.demo;
+package com.existmaster.demo.repository;
 
+import com.existmaster.demo.domain.Member;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

@@ -1,4 +1,4 @@
-package com.existmaster.demo;
+package com.existmaster.demo.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
